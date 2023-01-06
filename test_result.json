@@ -1,0 +1,314 @@
+{
+  "createdAt": "2023-01-06T02:06:35.747376+00:00",
+  "title": "TEST SALESFORCE ADM 201 Version 1.1",
+  "description": "Demo Exam to show the  list order questions as well as explanations.",
+  "code": "000-000s",
+  "pass": 65,
+  "time": 120,
+  "image": "https://i.pinimg.com/originals/a6/25/88/a62588dc61ca87e10f1f0cd052123314.png",
+  "author": {
+    "id": "f30UUlYEq80qbjKXlloe",
+    "name": "Test Salesforce",
+    "image": "https://yt3.ggpht.com/-9Q_OGPy0Reg/AAAAAAAAAAI/AAAAAAAAAAA/a-GWCV9iwcA/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+  },
+  "cover": [
+    {
+      "variant": 2,
+      "text": "EXAM PRACTICE"
+    },
+    {
+      "variant": 2,
+      "text": " \u00a1\u00a1 SUERTE !!"
+    },
+    {
+      "variant": 0,
+      "text": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/slack-innovations-dreamforce.jpg?d=500x500&f=inside"
+    },
+    {
+      "variant": 2,
+      "text": "Dispone de 2 horas para realizar el examen."
+    },
+    {
+      "variant": 2,
+      "text": "La puntuaci\u00f3n m\u00ednima es del 65%."
+    },
+    {
+      "variant": 2,
+      "text": "Este examen consta de 8 preguntas."
+    }
+  ],
+  "test": [
+    {
+      "answer": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "question": [
+        {
+          "variant": 1,
+          "text": "An administrator at Northern Trail Outfitters is creating a validation rule. Which two functions should the administrator use when creating a validation rule? Choose 2 answers "
+        }
+      ],
+      "explanation": [],
+      "variant": 1,
+      "choices": [
+        {
+          "label": "A",
+          "text": "Error message location"
+        },
+        {
+          "label": "B",
+          "text": "Formula return type"
+        },
+        {
+          "label": "C",
+          "text": "Rule active date"
+        },
+        {
+          "label": "D",
+          "text": "Error condition formula"
+        }
+      ]
+    },
+    {
+      "answer": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "question": [
+        {
+          "variant": 1,
+          "text": "An administrator has assigned a permission set group with the two-factor authentication for User Interface Logins permissions and the two-factor authentication for API Logins permission to a group of users. Which two prompts will happen when one of the users attempts to log in to Data Loader? Choose 2 answers "
+        }
+      ],
+      "explanation": [],
+      "variant": 1,
+      "choices": [
+        {
+          "label": "A",
+          "text": "Users need to enter a verification code from email or SMS, whichever has higher priority."
+        },
+        {
+          "label": "B",
+          "text": "Users need to connect an authenticator app to their Salesforce account."
+        },
+        {
+          "label": "C",
+          "text": "Users need to get a security token from a trusted network using Reset My Security Token."
+        },
+        {
+          "label": "D",
+          "text": "Users need to download and install an authenticator app on their mobile device."
+        }
+      ]
+    },
+    {
+      "answer": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "question": [
+        {
+          "variant": 1,
+          "text": "Ursa Major classifies its accounts as Silver, Gold, or Platinum Level. When a new case is created for a Silver or Gold partner, it should to the Regular Support Queue. When an account is Platinum Level, it should automatically go to the Priority Support Queue. What should the administrator use to achieve this? "
+        }
+      ],
+      "explanation": [],
+      "variant": 0,
+      "choices": [
+        {
+          "label": "A",
+          "text": "Case Rules"
+        },
+        {
+          "label": "B",
+          "text": "Escalation Rules"
+        },
+        {
+          "label": "C",
+          "text": "Assignment Rules"
+        },
+        {
+          "label": "D",
+          "text": "Workflow Rules"
+        }
+      ]
+    },
+    {
+      "answer": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "question": [
+        {
+          "variant": 1,
+          "text": "An administrator at Dreamhouse Reality needs to Create Customized pages for the salesforce mobile app. Which two types of pages could an administrator build and customize using the Lightning App Builder? Choose 2 Answers "
+        }
+      ],
+      "explanation": [],
+      "variant": 1,
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dashboard page"
+        },
+        {
+          "label": "B",
+          "text": "App page"
+        },
+        {
+          "label": "C",
+          "text": "User Page"
+        },
+        {
+          "label": "D",
+          "text": "Record Page"
+        }
+      ]
+    },
+    {
+      "answer": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "question": [
+        {
+          "variant": 1,
+          "text": "Northern Trail Outfitters wants to initiate expense reports from Salesforce to the external HR system. This process needs to be reviewed by managers and directors. Which two tools should and administrator configure? Choose 2 answers "
+        }
+      ],
+      "explanation": [],
+      "variant": 1,
+      "choices": [
+        {
+          "label": "A",
+          "text": "Approval Process"
+        },
+        {
+          "label": "B",
+          "text": "Outbound Message"
+        },
+        {
+          "label": "C",
+          "text": "Quick Action"
+        },
+        {
+          "label": "D",
+          "text": "Email Alert Action"
+        }
+      ]
+    },
+    {
+      "answer": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "question": [
+        {
+          "variant": 1,
+          "text": "Ursa Major Solar has a path on Case. The company wants to require its users to follow the status values as they are on the path. Agents should be prohibited from reverting the Case back to a previous status. Which feature should an administrator use to fulfill this request? "
+        }
+      ],
+      "explanation": [],
+      "variant": 0,
+      "choices": [
+        {
+          "label": "A",
+          "text": "Global Value Picklists"
+        },
+        {
+          "label": "B",
+          "text": "Validation Rules"
+        },
+        {
+          "label": "C",
+          "text": "Dependent Picklists"
+        },
+        {
+          "label": "D",
+          "text": "Predefined Field Values"
+        }
+      ]
+    },
+    {
+      "answer": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "question": [
+        {
+          "variant": 1,
+          "text": "User at Cloud Kicks want to see information more useful for their role on the Case page. How should an administrator make the pages more dynamic and easier to use? "
+        }
+      ],
+      "explanation": [],
+      "variant": 0,
+      "choices": [
+        {
+          "label": "A",
+          "text": "Remove fields from the record details component."
+        },
+        {
+          "label": "B",
+          "text": "Delete the extra component from the page."
+        },
+        {
+          "label": "C",
+          "text": "Add Component visibility filters to the Components."
+        },
+        {
+          "label": "D",
+          "text": "Include more tab components with filters."
+        }
+      ]
+    },
+    {
+      "answer": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "question": [
+        {
+          "variant": 1,
+          "text": "The administrator are Cloud Kicks created a new field for tracking returns on their new cloud shoe. A user has submitted case to the administrator indication that the new field is unavailable. Which two steps should an administrator do to troubleshoot this issue? Choose 2 answers "
+        }
+      ],
+      "explanation": [],
+      "variant": 1,
+      "choices": [
+        {
+          "label": "A",
+          "text": "Review the field level security of the field for the user profile"
+        },
+        {
+          "label": "B",
+          "text": "Update the organization wide default for the object."
+        },
+        {
+          "label": "C",
+          "text": "Run the setup audit trail for the organization."
+        },
+        {
+          "label": "D",
+          "text": "Ensure that the page layout for the user's profile has been updated."
+        }
+      ]
+    }
+  ]
+}

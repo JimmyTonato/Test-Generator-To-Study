@@ -1,0 +1,77 @@
+Question
+User at Cloud Kicks want to see information more useful for their role on the Case page.
+How should an administrator make the pages more dynamic and easier to use?
+A. Add Component visibility filters to the Components.
+B. Remove fields from the record details component.
+C. Delete the extra component from the page.
+D. Include more tab components with filters.
+Answer: A
+Question
+An administrator has assigned a permission set group with the two-factor authentication for
+User Interface Logins permissions and the two-factor authentication for API Logins permission to a group of
+users.
+Which two prompts will happen when one of the users attempts to log in to Data Loader?
+Choose 2 answers
+A. Users need to connect an authenticator app to their Salesforce account.
+B. Users need to get a security token from a trusted network using Reset My Security Token.
+C. Users need to download and install an authenticator app on their mobile device.
+D. Users need to enter a verification code from email or SMS, whichever has higher priority.
+Answer: A C
+Question
+An administrator at Northern Trail Outfitters is creating a validation rule.
+Which two functions should the administrator use when creating a validation rule?
+Choose 2 answers
+A. Formula return type
+B. Error condition formula
+C. Error message location
+D. Rule active date
+Answer: B C D
+Question
+Ursa Major classifies its accounts as Silver, Gold, or Platinum Level. When a new case is created for a Silver
+or Gold partner, it should to the Regular Support Queue. When an account is Platinum Level, it should
+automatically go to the Priority Support Queue.
+What should the administrator use to achieve this?
+A. Assignment Rules
+B. Case Rules
+C. Workflow Rules
+D. Escalation Rules
+Answer: A
+Question
+The administrator are Cloud Kicks created a new field for tracking returns on their new cloud shoe. A
+user has submitted case to the administrator indication that the new field is unavailable.
+Which two steps should an administrator do to troubleshoot this issue?
+Choose 2 answers
+A. Ensure that the page layout for the user's profile has been updated.
+B. Run the setup audit trail for the organization.
+C. Update the organization wide default for the object.
+D. Review the field level security of the field for the user profile
+Answer: A D
+Question
+An administrator at Dreamhouse Reality needs to Create Customized pages for the salesforce
+mobile app.
+Which two types of pages could an administrator build and customize using the Lightning App Builder?
+Choose 2 Answers
+A. User Page
+B. Dashboard page
+C. App page
+D. Record Page
+Answer: C D
+Question
+Northern Trail Outfitters wants to initiate expense reports from Salesforce to the external HR
+system. This process needs to be reviewed by managers and directors.
+Which two tools should and administrator configure?
+Choose 2 answers
+A. Quick Action
+B. Outbound Message
+C. Approval Process
+D. Email Alert Action
+Answer: B C
+Question
+Ursa Major Solar has a path on Case. The company wants to require its users to follow the status values as
+they are on the path. Agents should be prohibited from reverting the Case back to a previous status.
+Which feature should an administrator use to fulfill this request?
+A. Predefined Field Values
+B. Global Value Picklists
+C. Dependent Picklists
+D. Validation Rules
+Answer: D
